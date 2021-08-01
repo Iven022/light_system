@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="light_system" name="light_server_state" type="lamp_server.py"/>
+</launch>
