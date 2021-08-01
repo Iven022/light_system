@@ -1,6 +1,6 @@
 # light_system
 This ros package is the simulation of a smart lightning system of a smart city. The diagram below shows the road system of the city.
-<--
+<!--
 
  |   |   |L                         L|   |   |
  |       |                           |       |
