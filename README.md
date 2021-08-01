@@ -1,5 +1,6 @@
 # light_system
 This ros package is the simulation of a smart lightning system of a smart city. The diagram below shows the road system of the city.
+<--
 
  |   |   |L                         L|   |   |
  |       |                           |       |
@@ -22,7 +23,7 @@ Lights 1 - 4 will be the smart lights.
 and Light 5 are the non smart one.
 The smarts lights are connected in parallel to the one which is in front. 
 states : 0 - off, 1 - on but low intensity, 2 - full capacity
-
+-->
 ## To install this package and run its simulation
 
 clone it into the src folder in your catkin workspace
